@@ -1,2 +1,2 @@
-# BigData-BI-Projects
+# Business Intelligence - GM Projects
 Alguns dos meus novos projetos 
